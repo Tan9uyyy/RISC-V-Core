@@ -84,3 +84,4 @@ simu/registers_tb
 
 # Ignorer les traces de simulation GTKWave
 *.ghw
+*.log

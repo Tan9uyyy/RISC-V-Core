@@ -1,0 +1,86 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+.DS_Store
+
+# Customs
+*.elf
+*.hex
+*.asm
+*.hex32
+
+fpga/femtorv_a7/
+fpga/riscv_enssat_teacher
+fpga/build/
+
+soft/tools/riscv
+soft/tools/firmware_words/firmware_words
+
+firmware/
+
+simu/work-obj08.cf
+.vscode/settings.json
+fpga/vivado_cmod_a7/vivado_cmod_a7.gen/
+fpga/vivado_cmod_a7/vivado_cmod_a7.ip_user_files/
+fpga/vivado_cmod_a7/vivado_cmod_a7.runs/
+fpga/vivado_cmod_a7/vivado_cmod_a7.cache/
+fpga/vivado_cmod_a7/vivado_cmod_a7.srcs/
+fpga/vivado_cmod_a7/vivado_cmod_a7.hw/
+firmware.mem
+DATARAM.mem
+PROGROM.mem
+fpga/vivado_cmod_a7/vivado_cmod_a7.sim/*
+fpga/vivado_cmod_a7/riscv_soc_no_mem_tb_behav.wcfg
+*.vcd
+
+fpga/.gen/
+fpga/.srcs/
+fpga/.Xil/
+
+fpga/clockInfo.txt
+fpga/riscv_5stg_soc.bit
+fpga/riscv_soc.bit
+fpga/tight_setup_hold_pins.txt
+vivado_cmod_a7.gen
+
+simu/alu_tb
+simu/alu_div_tb
+simu/alu_mult_tb
+simu/decoder_tb
+simu/fetch_tb
+simu/immediate_tb
+simu/mem_store_tb
+simu/mem_load_tb
+simu/registers_tb
+
+# Ignorer les traces de simulation GTKWave
+*.ghw

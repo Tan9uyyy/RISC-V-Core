@@ -1,0 +1,64 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Mon Mar  3 10:18:20 2025
+[*]
+[dumpfile] "/Users/legal/GitHub/ENSSAT-RISCV-design-teacher/simu/trace.gtw"
+[dumpfile_mtime] "Mon Mar  3 10:18:04 2025"
+[dumpfile_size] 19173
+[savefile] "/Users/legal/GitHub/ENSSAT-RISCV-design-teacher/simu/decoder.gtkw"
+[timestart] 0
+[size] 1376 783
+[pos] 17 44
+*-24.000000 12410000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] decoder_tb.
+[treeopen] decoder_tb.uut.
+[sst_width] 253
+[signals_width] 207
+[sst_expanded] 1
+[sst_vpaned_height] 222
+@22
+decoder_tb.uut.instr_i[31:0]
+@200
+-
+@22
+decoder_tb.uut.funct7_o[6:0]
+@28
+decoder_tb.uut.funct3_o[2:0]
+@200
+-
+@22
+decoder_tb.uut.rs1_o[4:0]
+decoder_tb.uut.rs2_o[4:0]
+decoder_tb.uut.rdid_o[4:0]
+@200
+-
+@28
+decoder_tb.uut.isalureg_o
+decoder_tb.uut.isauipc_o
+decoder_tb.uut.isbranch_o
+decoder_tb.uut.isbyte_o
+decoder_tb.uut.iscsrrs_o
+decoder_tb.uut.iscustom_o
+decoder_tb.uut.isebreak_o
+decoder_tb.uut.ishalf_o
+decoder_tb.uut.isjal_o
+decoder_tb.uut.isjal_s
+decoder_tb.uut.isjalorjalr_o
+decoder_tb.uut.isjalr_o
+decoder_tb.uut.isjalr_s
+decoder_tb.uut.isload_o
+decoder_tb.uut.islui_o
+decoder_tb.uut.isstore_o
+@29
+decoder_tb.uut.issystem_o
+@200
+-
+@c00028
+decoder_tb.uut.csrid_o[1:0]
+@28
+(0)decoder_tb.uut.csrid_o[1:0]
+(1)decoder_tb.uut.csrid_o[1:0]
+@1401200
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0

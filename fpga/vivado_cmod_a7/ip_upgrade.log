@@ -1,0 +1,662 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Fri Apr 19 15:15:38 2024
+| Host         : legal-OptiPlex-7000 running 64-bit Ubuntu 23.10
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'doCore_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of doCore_0 (xilinx.com:hls:doCore:1.0) from (Rev. 2113521343) to (Rev. 2113521367)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Fri Apr 19 14:44:10 2024
+| Host         : legal-OptiPlex-7000 running 64-bit Ubuntu 23.10
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'doCore_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of doCore_0 (xilinx.com:hls:doCore:1.0) from (Rev. 2113521314) to (Rev. 2113521343)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'doCore_0'. These changes may impact your design.
+
+
+-Upgrade has removed port 'imData_d0'
+
+-Upgrade has removed port 'imData_we0'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Fri Apr 19 14:14:17 2024
+| Host         : legal-OptiPlex-7000 running 64-bit Ubuntu 23.10
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'doCore_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of doCore_0 (xilinx.com:hls:doCore:1.0) from (Rev. 2113521287) to (Rev. 2113521314)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'doCore_0'. These changes may impact your design.
+
+
+-Upgrade has added port 'imData_d0'
+
+-Upgrade has added port 'imData_we0'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Fri Apr 19 13:48:26 2024
+| Host         : legal-OptiPlex-7000 running 64-bit Ubuntu 23.10
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'doCore_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of doCore_0 (xilinx.com:hls:doCore:1.0) from (Rev. 2113521266) to (Rev. 2113521287)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Fri Apr 19 13:29:15 2024
+| Host         : legal-OptiPlex-7000 running 64-bit Ubuntu 23.10
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'doCore_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of doCore_0 (xilinx.com:hls:doCore:1.0) from (Rev. 2113521256) to (Rev. 2113521266)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Interface Information
+------------------------
+
+Detected external interface differences while upgrading 'doCore_0'.
+
+
+-Upgrade has added interface 'aluOu' (xilinx.com:interface:acc_fifo_write:1.0)
+
+
+3. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'doCore_0'. These changes may impact your design.
+
+
+-Upgrade has added port 'aluOu_din'
+
+-Upgrade has added port 'aluOu_full_n'
+
+-Upgrade has added port 'aluOu_write'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Fri Apr 19 13:17:17 2024
+| Host         : legal-OptiPlex-7000 running 64-bit Ubuntu 23.10
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'doCore_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of doCore_0 (xilinx.com:hls:doCore:1.0) from (Rev. 2113521226) to (Rev. 2113521256)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Fri Apr 19 12:48:17 2024
+| Host         : legal-OptiPlex-7000 running 64-bit Ubuntu 23.10
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'doCore_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of doCore_0 (xilinx.com:hls:doCore:1.0) from (Rev. 2113521167) to (Rev. 2113521226)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Interface Information
+------------------------
+
+Detected external interface differences while upgrading 'doCore_0'.
+
+
+-Upgrade has added interface 'sonde' (xilinx.com:interface:acc_fifo_write:1.0)
+
+
+3. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'doCore_0'. These changes may impact your design.
+
+
+-Upgrade has added port 'sonde_din'
+
+-Upgrade has added port 'sonde_full_n'
+
+-Upgrade has added port 'sonde_write'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Fri Apr 19 11:47:24 2024
+| Host         : legal-OptiPlex-7000 running 64-bit Ubuntu 23.10
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'doCore_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of doCore_0 (xilinx.com:hls:doCore:1.0) from (Rev. 2113521132) to (Rev. 2113521167)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Fri Apr 19 11:19:23 2024
+| Host         : legal-OptiPlex-7000 running 64-bit Ubuntu 23.10
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'doCore_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of doCore_0 (xilinx.com:hls:doCore:1.0) from (Rev. 2113521037) to (Rev. 2113521132)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Fri Apr 19 09:39:25 2024
+| Host         : legal-OptiPlex-7000 running 64-bit Ubuntu 23.10
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'doCore_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of doCore_0 (xilinx.com:hls:doCore:1.0) from (Rev. 2113521022) to (Rev. 2113521037)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Fri Apr 19 09:22:25 2024
+| Host         : legal-OptiPlex-7000 running 64-bit Ubuntu 23.10
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'doCore_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of doCore_0 (xilinx.com:hls:doCore:1.0) from (Rev. 2113521001) to (Rev. 2113521022)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Fri Apr 19 09:01:40 2024
+| Host         : legal-OptiPlex-7000 running 64-bit Ubuntu 23.10
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'doCore_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of doCore_0 (xilinx.com:hls:doCore:1.0) from (Rev. 2113520993) to (Rev. 2113521001)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Fri Apr 19 08:53:41 2024
+| Host         : legal-OptiPlex-7000 running 64-bit Ubuntu 23.10
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'doCore_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of doCore_0 (xilinx.com:hls:doCore:1.0) from (Rev. 2113520972) to (Rev. 2113520993)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'doCore_0'. These changes may impact your design.
+
+
+-Upgrade has removed port 'dmData_address1'
+
+-Upgrade has removed port 'dmData_ce1'
+
+-Upgrade has removed port 'dmData_d1'
+
+-Upgrade has removed port 'dmData_q1'
+
+-Upgrade has removed port 'dmData_we1'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Fri Apr 19 08:33:22 2024
+| Host         : legal-OptiPlex-7000 running 64-bit Ubuntu 23.10
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'doCore_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of doCore_0 (xilinx.com:hls:doCore:1.0) from (Rev. 2113520945) to (Rev. 2113520972)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'doCore_0'. These changes may impact your design.
+
+
+-Upgrade has added port 'dmData_address1'
+
+-Upgrade has added port 'dmData_ce1'
+
+-Upgrade has added port 'dmData_d1'
+
+-Upgrade has added port 'dmData_q1'
+
+-Upgrade has added port 'dmData_we1'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Fri Apr 19 08:06:13 2024
+| Host         : legal-OptiPlex-7000 running 64-bit Ubuntu 23.10
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'doCore_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of doCore_0 (xilinx.com:hls:doCore:1.0) from (Rev. 2113520931) to (Rev. 2113520945)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Interface Information
+------------------------
+
+Detected external interface differences while upgrading 'doCore_0'.
+
+
+-Upgrade has added interface 'debug' (xilinx.com:interface:acc_fifo_write:1.0)
+
+
+3. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'doCore_0'. These changes may impact your design.
+
+
+-Upgrade has removed port 'debug'
+
+-Upgrade has added port 'debug_din'
+
+-Upgrade has added port 'debug_full_n'
+
+-Upgrade has added port 'debug_write'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Fri Apr 19 07:52:08 2024
+| Host         : legal-OptiPlex-7000 running 64-bit Ubuntu 23.10
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'doCore_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of doCore_0 (xilinx.com:hls:doCore:1.0) from (Rev. 2113520124) to (Rev. 2113520931)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'doCore_0'. These changes may impact your design.
+
+
+-Upgrade has added port 'debug'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Thu Apr 18 18:25:33 2024
+| Host         : legal-OptiPlex-7000 running 64-bit Ubuntu 23.10
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'doCore_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of doCore_0 (xilinx.com:hls:doCore:1.0) from (Rev. 2113520116) to (Rev. 2113520124)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'doCore_0'. These changes may impact your design.
+
+
+-Upgraded port 'dmData_d0' width 32 differs from original width 64
+
+-Upgraded port 'dmData_q0' width 32 differs from original width 64
+
+-Upgraded port 'imData_q0' width 32 differs from original width 64
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Thu Apr 18 18:17:02 2024
+| Host         : legal-OptiPlex-7000 running 64-bit Ubuntu 23.10
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'doCore_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of doCore_0 (xilinx.com:hls:doCore:1.0) from (Rev. 2113520016) to (Rev. 2113520116)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'doCore_0'. These changes may impact your design.
+
+
+-Upgraded port 'dmData_d0' width 64 differs from original width 32
+
+-Upgraded port 'dmData_q0' width 64 differs from original width 32
+
+-Upgraded port 'imData_q0' width 64 differs from original width 32
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Thu Apr 18 16:37:40 2024
+| Host         : legal-OptiPlex-7000 running 64-bit Ubuntu 23.10
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'doCore_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of doCore_0 (xilinx.com:hls:doCore:1.0) from (Rev. 2113519559) to (Rev. 2113520016)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Thu Apr 18 09:00:37 2024
+| Host         : legal-OptiPlex-7000 running 64-bit Ubuntu 23.10
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'doCore_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of doCore_0 (xilinx.com:hls:doCore:1.0) from (Rev. 2113519522) to (Rev. 2113519559)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'doCore_0'. These changes may impact your design.
+
+
+-Upgraded port 'dmData_address0' width 29 differs from original width 24
+
+-Upgraded port 'imData_address0' width 29 differs from original width 24
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Thu Apr 18 08:25:48 2024
+| Host         : legal-OptiPlex-7000 running 64-bit Ubuntu 23.10
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'doCore_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of doCore_0 (xilinx.com:hls:doCore:1.0) from (Rev. 2113519503) to (Rev. 2113519522)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'doCore_0'. These changes may impact your design.
+
+
+-Upgraded port 'dmData_address0' width 24 differs from original width 29
+
+-Upgraded port 'imData_address0' width 24 differs from original width 29
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Thu Apr 18 08:20:36 2024
+| Host         : legal-OptiPlex-7000 running 64-bit Ubuntu 23.10
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'doCore_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of doCore_0 (xilinx.com:hls:doCore:1.0) from (Rev. 2113518580) to (Rev. 2113519503)
+

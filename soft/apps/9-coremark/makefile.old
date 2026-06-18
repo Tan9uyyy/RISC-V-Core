@@ -1,0 +1,15 @@
+include ../../Makefile.inc
+
+EXEC=coremark
+
+all: $(EXEC).riscv$(XLEN)
+
+$(EXEC).riscv$(XLEN): core_list_join.c  core_matrix.c  core_util.c  ee_printf.c  core_main.c  core_portme.c  core_state.c
+	$(CCRV) perf.S core_list_join.c  core_matrix.c  core_util.c  ee_printf.c  core_main.c  core_portme.c  core_state.c $(CFLAGS) -o $(EXEC).riscv$(XLEN) -DTIME -Wno-implicit-function-declaration
+	riscv64-unknown-elf-gcc perf.S core_list_join.c  core_matrix.c  core_util.c  ee_printf.c  core_main.c  core_portme.c  core_state.c -O2 -march=rv32ic -mabi=ilp32 -DTIME -Wno-overflow -o dhrystone.rv32ic
+#	$(CCHOST) dhry_1.c dhry_2.c stubs.c -o humanshader
+#	./humanshader > expectedOutput
+	rm -f $(EXEC)
+
+clean:
+	rm -f *.riscv* expectedOutput
